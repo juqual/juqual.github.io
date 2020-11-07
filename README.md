@@ -1,1 +1,1 @@
- juqual.github.io
+juqual.github.io
