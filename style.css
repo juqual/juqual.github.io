@@ -1,0 +1,25 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+body{
+  font-family: 'Nanum Gothic', 돋움;
+}
+div {
+      font-size : 20pt;
+      margin : 20px;
+      padding-left : 30px;
+      border-left : 1px solid green;
+      border-left-width : 10px;
+      line-height : 2;
+      font-family: 'nanum Gothic', 돋움;
+    } 
+    .link {
+      border-left-width:0px;
+      margin-bottom : 2px dashed #CEFBC9;
+      font-size:20px;
+      padding-left : 10px;
+    }
+    a {
+      text-decoration:none;
+      color : salmon;
+      
+
+      
