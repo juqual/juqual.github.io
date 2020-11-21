@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text&display=swap');
+table {
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #CECECE;
+}
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text&display=swap');
+body{
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+div {
+      font-size :50pt;
+      margin :50pxt;
+      padding-left : 30px;
+      border-left : 1px solid green;
+      border-left-width :10px;
+      line-height :1;
+      font-family: 'Big Shoulders Stencil Text', cursive;
+    } 
+    .link {
+      border-left-width:0px;
+      margin-bottom :2px dashed #CEFBC9;
+      font-size:50pt;
+      padding-left :10px;
+    }
+    a {
+      text-decoration:none;
+      
+    }
+</style>
+</head>
+<body>
+
+<h2>RAINBOW SIX SIEGE｜OPRATOR<h2>
+
+<table>
+  <tr>
+    <th>[Pathfinder]</th>
+    <th>[Year 1]</th>
+    <th>[Year 2]</th>
+    <th>[Year 3]</th>
+    <th>[Year 4]</th>
+    <th>[Year 5]</th>
+  </tr>
+  <tr>
+    <td><a href="https://namu.wiki/w/%EC%8D%A8%EB%A7%88%EC%9D%B4%ED%8A%B8(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#E95B2B;">THERMITE</p></a></td>
+    <td><a href="https://namu.wiki/w/%ED%9E%88%EB%B0%94%EB%82%98(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#F93A3A;">HIBANA</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%9E%90%EC%B9%BC(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#8842A9;">JACKAL</p></a>
+    <td><a href="https://namu.wiki/w/%EB%9D%BC%EC%9D%B4%EC%98%A8(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#EDC00F;">RION</p></a></td>
+    <td><a href="https://namu.wiki/w/%EA%B7%B8%EB%A6%AC%EB%93%9C%EB%9D%BD"><p style="color:#E8336F">GRIDLOCK</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%97%90%EC%9D%B4%EC%8A%A4(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#4BB198;">ACE</p></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://namu.wiki/w/%EC%BA%90%EC%8A%AC(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#E95B2B">CASTLE</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%97%90%EC%BD%94(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#F93A3A;">ECHO</p></a></td>
+    <td><a href="https://namu.wiki/w/%EB%AF%B8%EB%9D%BC(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#8842A9;">MIRA</p></a></td>
+    <td><a href="https://namu.wiki/w/%ED%95%80%EC%B9%B4"><p style="color:#EDC00F">FINKA</p></a></td>
+    <td><a href="https://namu.wiki/w/%EB%AA%A8%EC%A7%80(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#E8336F;">MOZZIE</p></a></td>
+    <td><a href="https://namu.wiki/w/%EB%A9%9C%EB%A3%A8%EC%8B%9C"><p style="color:#4BB198">MELUSI</p></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://namu.wiki/w/%ED%8A%B8%EC%9C%84%EC%B9%98(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#687EA9;">TWITCH</p></a>
+    <td><a href="https://namu.wiki/w/%EB%B2%85(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#2290B2">BUCK</p></a></td>
+    <td><a href="https://namu.wiki/w/%EB%8F%84%EA%B9%A8%EB%B9%84(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#B7B6B7;">DOGGABI</p></a></td>
+    <td><a href="https://namu.wiki/w/%EB%85%B8%EB%A7%A4%EB%93%9C(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#CCB486">NOMAD</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%B9%BC%EB%A6%AC(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#8BE2FD">KALI</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%95%BC%EB%82%98(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#BA7ED1">YANA</p></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://namu.wiki/w/%EB%A3%A9(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#687EA9;">ROOK</p></a></td>
+    <td><a href="https://namu.wiki/w/%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8A%B8(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#2290B2">FROST</p></a></td>
+    <td><a href="https://namu.wiki/w/%EB%B9%84%EC%A7%88"><p style="color:#B7B6B7">VIGIL</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%B9%B4%EC%9D%B4%EB%93%9C"><p style="color:#CCB486">KAID</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%99%80%EB%A7%88%EC%9D%B4"><p style="color:#8BE2FD">WAMAI</p></a></td>
+    <td><a href="https://namu.wiki/w/%EC%98%A4%EB%A6%AD%EC%8A%A4(%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%20%EC%8B%9D%EC%8A%A4%20%EC%8B%9C%EC%A6%88)"><p style="color:#BA7ED1">ORIX</p></a></td>
+  </tr>
+  
+</table>
+
+</body>
+</html>
