@@ -1,1 +1,0 @@
-juqual.github.io
