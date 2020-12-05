@@ -1,0 +1,53 @@
+#calendar {
+    width: 380px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.week {
+    display: flex;
+}
+
+.weekname {
+    width: 50px;
+}
+
+.days {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.daynum {
+    width: 50px;
+    line-height: 30px;
+    height: 30px;
+    cursor: pointer;
+    transition: 0.35s;
+}
+
+.today{
+  background-color: #FA8072
+}
+
+.daynum .empty {
+    pointer-events: none;
+}
+
+.daynum:hover {
+    background: yellow;
+    
+}
+
+.prev-btn{
+  position:absolute;
+  top:20;
+  left:30px;
+}
+
+.next-btn{
+  position:absolute;
+  top:20;
+  left:325px;
+}
+
